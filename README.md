@@ -1,0 +1,2 @@
+# Judiciary
+- [Legal terms]()
